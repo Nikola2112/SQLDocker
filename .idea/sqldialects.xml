@@ -3,5 +3,12 @@
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/e2892c96-50f0-4f9e-b027-fc5d4938d4de/console.sql" dialect="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/e2892c96-50f0-4f9e-b027-fc5d4938d4de/console_1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/find_longest_project.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/find_max_projects_client.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/find_max_salary_worker.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/find_youngest_eldest_workers.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/print_project_prices.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/init_db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/populate_db.sql" dialect="AZURE" />
   </component>
 </project>
