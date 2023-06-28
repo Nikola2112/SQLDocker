@@ -1,10 +1,3 @@
-CREATE TYPE ENUM_LEVEL AS ENUM
-    (
-        'Trainee',
-        'Junior',
-        'Middle',
-        'Senior'
-        );
 CREATE TABLE worker (
                         ID SERIAL PRIMARY KEY,
                         NAME VARCHAR(1000) NOT NULL CHECK (LENGTH(NAME) >= 2 AND LENGTH(NAME) <= 1000),
